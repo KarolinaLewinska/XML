@@ -8,9 +8,9 @@
 - **menu.xsl** – XSL stylesheet file<br />
 
 **Results:**
-<br />![result](https://github.com/KarolinaLewinska/XML_project/blob/main/ReadmeIMG/result.PNG)<br />
+<br />![results](https://github.com/KarolinaLewinska/XML_project/blob/main/ReadmeIMG/results.PNG)<br />
 <br />![result2](https://github.com/KarolinaLewinska/XML_project/blob/main/ReadmeIMG/result2.PNG)<br />
 <br />![result3](https://github.com/KarolinaLewinska/XML_project/blob/main/ReadmeIMG/result3.PNG)<br />
 <br />![result4](https://github.com/KarolinaLewinska/XML_project/blob/main/ReadmeIMG/result4.PNG)<br />
-<br />![result5](https://github.com/KarolinaLewinska/XML_project/blob/main/ReadmeIMG/result5.PNG)<br />
+<br />![result5](https://github.com/KarolinaLewinska/XML_project/blob/main/ReadmeIMG/results5.PNG)<br />
 <br />![result6](https://github.com/KarolinaLewinska/XML_project/blob/main/ReadmeIMG/result6.PNG)<br />
