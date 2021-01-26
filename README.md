@@ -6,6 +6,7 @@
 - **menu.xml** - own XML file about menu of restaurant (includes DTD schema)<br />
 - **menu.xsd** – XSD file based on XML<br />
 - **menu.xsl** – XSL stylesheet file<br />
+
 **Results:**
 <br />![result](https://github.com/KarolinaLewinska/XML_project/blob/main/ReadmeIMG/result.PNG)<br />
 <br />![result2](https://github.com/KarolinaLewinska/XML_project/blob/main/ReadmeIMG/result2.PNG)<br />
