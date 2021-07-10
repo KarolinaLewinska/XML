@@ -8,13 +8,12 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 				<title>Restaurant Menu</title>
 			</head>
 			<body>
-        <div>
+				<div>
 					<img style="display: block; margin-left: auto; margin-right: auto; height:35%; width: 20%;" src="images/menu.jpg" alt="menu"/>
-        </div>
-        <div style="margin: auto; width:70%;">
+				</div>
+				<div style="margin: auto; width: 70%;">
 					<h2 style="text-align: center; color: #F0E68C; font-family: Snell Roundhand, cursive">Snacks:</h2>
-          <img style="display: block; margin-left: auto; margin-right: auto; width: 30%;" src="images/meat.jpg" alt="meat"/>
-          <br/> <br/>
+					<img style="display: block; margin-left: auto; margin-right: auto; width: 30%; margin-bottom: 50px;" src="images/meat.jpg" alt="meat"/>
 					<table border="1" width="100%" style="text-align: center; border-collapse: collapse; font-family: Arial;">
 						<tr style="background-color: #EEE8AA;">
 							<th style="padding: 10px;">Name</th>
@@ -34,12 +33,11 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 								<td style="text-align: center; padding: 10px;"><xsl:value-of select="macros/protein" /> g</td>
 								<td style="text-align: center; padding: 10px;"><xsl:value-of select="macros/fat" /> g</td>
 								<td style="text-align: center; padding: 10px;"><xsl:value-of select="macros/carbs" /> g</td>
-              </tr> 
+							</tr> 
 						</xsl:for-each>
 					</table>
 					<h2 style="text-align: center; color: #F0E68C; font-family: Snell Roundhand, cursive">Soups:</h2>
-          <img style="display: block; margin-left: auto; margin-right: auto; width: 30%;" src="images/soup.jpg" alt="soup"/>
-          <br/> <br/>
+					<img style="display: block; margin-left: auto; margin-right: auto; width: 30%; margin-bottom: 50px;" src="images/soup.jpg" alt="soup"/>
 					<table border="1" width="100%" style="text-align: center; border-collapse: collapse; font-family: Arial;">
 						<tr style="background-color: #EEE8AA;">
 							<th style="padding: 10px;">Name</th>
@@ -63,8 +61,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 						</xsl:for-each>			
 					</table>
 					<h2 style="text-align: center; color: #F0E68C; font-family: Snell Roundhand, cursive">Pizzas:</h2>
-          <img style="display: block; margin-left: auto; margin-right: auto; width: 30%;" src="images/pizza.jpg" alt="pizza"/>
-          <br/> <br/>
+					<img style="display: block; margin-left: auto; margin-right: auto; width: 30%; margin-bottom: 50px;" src="images/pizza.jpg" alt="pizza"/>
 					<table border="1" width="100%" style="text-align: center; border-collapse: collapse; font-family: Arial;">
 						<tr style="background-color:#EEE8AA;">
 							<th style="padding: 10px;">Name</th>
@@ -90,8 +87,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 						</xsl:for-each>
 					</table>
 					<h2 style="text-align: center; color: #F0E68C; font-family: Snell Roundhand, cursive">Desserts:</h2>
-          <img style="display: block; margin-left: auto; margin-right: auto; width: 30%;" src="images/brownie.jpg" alt="brownie"/>
-          <br/> <br/>
+					<img style="display: block; margin-left: auto; margin-right: auto; width: 30%; margin-bottom: 50px;" src="images/brownie.jpg" alt="brownie"/>
 					<table border="1" width="100%" style="text-align: center; border-collapse: collapse; font-family: Arial;">
 						<tr style="background-color:#EEE8AA;">
 							<th style="padding: 10px;">Name</th>
@@ -115,8 +111,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 						</xsl:for-each>	
 					</table>
 					<h2 style="text-align: center; color: #F0E68C; font-family: Snell Roundhand, cursive"> Cold Drinks:</h2>
-          <img style="display: block; margin-left: auto; margin-right: auto; width: 30%;" src="images/juice.jpg" alt="juice"/>
-          <br/><br/>
+					<img style="display: block; margin-left: auto; margin-right: auto; width: 30%; margin-bottom: 50px;" src="images/juice.jpg" alt="juice"/>
 					<table border="1" width="100%" style="text-align: center; border-collapse: collapse; font-family: Arial;">
 						<tr style="background-color: #EEE8AA;">
 							<th style="padding: 10px;">Name</th>
@@ -134,8 +129,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 						</xsl:for-each>
 					</table>
 					<h2 style=" text-align: center; color: #F0E68C; font-family: Snell Roundhand, cursive">Hot Drinks:</h2>
-          <img style=" display: block; margin-left: auto; margin-right: auto; width: 30%;" src="images/coffee.jpg" alt="coffee"/>
-          <br/> <br/>
+					<img style=" display: block; margin-left: auto; margin-right: auto; width: 30%; margin-bottom: 50px;" src="images/coffee.jpg" alt="coffee"/>
 					<table border="1" width="100%" style="text-align: center; border-collapse: collapse; font-family: Arial;">
 						<tr style="background-color: #EEE8AA;">
 							<th style="padding: 10px;">Name</th>
@@ -152,8 +146,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 							</tr>
 						</xsl:for-each>
 					</table>
-        </div>
-				<br/> <br/>
+				</div>
 			</body>
 		</html>
 	</xsl:template>
