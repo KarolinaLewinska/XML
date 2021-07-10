@@ -1,6 +1,5 @@
 # XML
-
-**Results:**
+<br />
 <br />![results](https://github.com/KarolinaLewinska/XML_project/blob/main/ReadmeIMG/results.PNG)<br />
 <br />![result2](https://github.com/KarolinaLewinska/XML_project/blob/main/ReadmeIMG/result2.PNG)<br />
 <br />![result3](https://github.com/KarolinaLewinska/XML_project/blob/main/ReadmeIMG/result3.PNG)<br />
