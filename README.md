@@ -1,5 +1,5 @@
 # XML
-Co-authors:<br/>
+**Co-authors:**<br/>
 [Natalia Skórowska](https://github.com/NataliaSkorowska)<br/>
 [Mateusz Sałata](https://github.com/mateuszsalata1108)<br/>
 ## Interfaces
